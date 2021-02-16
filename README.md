@@ -1,2 +1,5 @@
-# Valheim-Mods
-All my public Valheim mods will go here :)
+# Valheim Mods
+I will try to keep everything up to date, if I start slacking just message me :)
+
+## Current Mods
+Timed Cleanup
