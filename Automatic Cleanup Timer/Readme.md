@@ -9,7 +9,7 @@ You can find this file here C:\Users\[YOUR NAME]\AppData\LocalLow\IronGate\Valhe
 Right click and edit this with a file editor of your choice (Notepad will do!)
 
 It will look like this
-```json
+```
 {
   "Settings": [
     "300", < This is how often you want the timer to run (in seconds)
