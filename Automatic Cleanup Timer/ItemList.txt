@@ -6,16 +6,16 @@ If you wish to wipe every item in the game just make sure you use the right mode
 
 --
 
-[MaterialNames]
+[Material Names]
 Wood(Clone)
 Stone(Clone)
 BeechSeeds(Clone)
-RoundLog(Clone)[CoreWood]
+RoundLog(Clone) [Core Wood]
 FineWood(Clone)
 TinOre(Clone)
-Tin(Clone)[Bar,NotOre]
+Tin(Clone) [Bar, Not Ore]
 CopperOre(Clone)
-Copper(Clone)[Bar,NotOre]
+Copper(Clone) [Bar,Not Ore]
 SurtlingCore(Clone)
 Flint(Clone)
 Coal(Clone)
@@ -29,17 +29,17 @@ AncientSeed(Clone)
 CarrotSeeds(Clone)
 Thistle(Clone)
 
-[WeaponNames]
+[Weapon Names]
 Club(Clone)
 Bow(Clone)
 KnifeFlint(Clone)
 BowFineWood(Clone)
 
-[ArmourNames]
+[Armour Names]
 ArmorLeatherChest(Clone)
 ArmorLeatherLegs(Clone)
 
-[ToolNames]
+[Tool Names]
 PickaxeAntler(Clone)
 AxeFlint(Clone)
 Torch(Clone)
@@ -57,7 +57,7 @@ TrophyBoar(Clone)
 TrophyGreydwarfBrute(Clone)
 TrophyGreydwarf(Clone)
 TrophyGreydwarfShaman(Clone)
-TrophySkeletonPoison(Clone)[RancidSkeletonTrophy]
+TrophySkeletonPoison(Clone) [Rancid Skeleton Trophy]
 
 [FoodNames]
 Mushroom(Clone)
@@ -69,7 +69,7 @@ Honey(Clone)
 FishRaw(Clone)
 
 [Valuables]
-Coins(Clone)[Even1is"Coins",Willdestroywholestack]
+Coins(Clone) [Even 1 is "Coins", Will destroy whole stack]
 Ruby(Clone)
 Amber(Clone)
 
